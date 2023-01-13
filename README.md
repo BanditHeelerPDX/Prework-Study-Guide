@@ -2,7 +2,7 @@
 
 ## Description
 
-Created a prework study guid webpage to simultaneously learn about the core concepts of the bootcamp, put those concepts into action and showcase those concepts for others to see.  Learned rudimentary html, css and js to create a webpage that demonstrated an early understanding of the basic principles of web development.  Also learned and utilized basic git commands to build in stages and protect the integrity of the project.
+Created a prework study guide webpage to simultaneously learn about the core concepts of the bootcamp, put those concepts into action and showcase those concepts for others to see.  Learned rudimentary html, css and js to create a webpage that demonstrated an early understanding of the basic principles of web development.  Also learned and utilized basic git commands to build in stages and protect the integrity of the project.
 
 ## Installation
 
